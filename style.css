@@ -68,9 +68,10 @@ h1{ border: 1px black solid;
 
 html, body {
     /* Sets default font-size to 16px, ensuring 1em = 16px; */
-    font-size: 25px;
+    font-size: 16px;
  	text-align: left;
-    margin: 20% 10%;
+
+    
 
 }
 
@@ -86,6 +87,18 @@ html, body {
 @media(min-width: 681px) {
     /* Any adjustments for tablets and larger go here.
     Note these styles will be applied to anything 681px or larger -- so tablet AND desktop */
+html, body {
+    /* Sets default font-size to 16px, ensuring 1em = 16px; */
+    font-size: 16px;
+  text-align: left;
+  margin: 5%10%;
+
+    
+
+}
+
+
+
 }
 
 /*********************************************************************
